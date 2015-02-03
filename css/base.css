@@ -1,0 +1,58 @@
+/*
+
+Base css:: Common css for all pages goes here
+=============
+
+Developed By:  Rocky Lancer
+Created: Feb 2015
+Notes:	 
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+
+
+   /* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+
+   /* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+   /* Portrait & landscape phone */
+	@media (max-width: 480px) {
+
+	}
+
+
+	/* Landscape phone to portrait tablet */
+	@media (max-width: 768px) {
+
+	}
+
+	/* Large desktop */
+	@media (min-width: 1200px) {
+
+	}
+
+
+
+
